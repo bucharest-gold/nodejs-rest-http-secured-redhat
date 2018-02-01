@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Deployment
 metadata:
-  name: nodejs-rest-http-secured
+  name: nodejs-rest-http-secured-redhat
 spec:
   template:
     spec:
