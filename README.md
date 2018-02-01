@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/bucharest-gold/nodejs-rest-http-secured.svg?branch=master)](https://travis-ci.org/bucharest-gold/nodejs-rest-http-secured) [![Coverage Status](https://coveralls.io/repos/github/bucharest-gold/nodejs-rest-http-secured/badge.svg?branch=master)](https://coveralls.io/github/bucharest-gold/nodejs-rest-http-secured?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/bucharest-gold/nodejs-rest-http-secured.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/bucharest-gold/nodejs-rest-http-secured-redhat.svg?branch=master)](https://travis-ci.org/bucharest-gold/nodejs-rest-http-secured-redhat) [![Coverage Status](https://coveralls.io/repos/github/bucharest-gold/nodejs-rest-http-secured-redhat/badge.svg?branch=master)](https://coveralls.io/github/bucharest-gold/nodejs-rest-http-secured-redhat?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/bucharest-gold/nodejs-rest-http-secured-redhat.svg)](https://greenkeeper.io/)
 
-# nodejs-rest-http-secured
+# nodejs-rest-http-secured-redhat
 Quickstart to expose a REST Greeting endpoint using Node.js&amp; Secured by Red Hat SSO
 
 
