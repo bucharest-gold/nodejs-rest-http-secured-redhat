@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/bucharest-gold/nodejs-rest-http-secured-redhat/compare/v1.1.2...v2.0.0) (2018-05-17)
+
+
+### Features
+
+* start using node.js 10. ([#39](https://github.com/bucharest-gold/nodejs-rest-http-secured-redhat/issues/39)) ([63a07af](https://github.com/bucharest-gold/nodejs-rest-http-secured-redhat/commit/63a07af)), closes [#38](https://github.com/bucharest-gold/nodejs-rest-http-secured-redhat/issues/38)
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/bucharest-gold/nodejs-rest-http-secured-redhat/compare/v1.1.1...v1.1.2) (2018-04-27)
 
