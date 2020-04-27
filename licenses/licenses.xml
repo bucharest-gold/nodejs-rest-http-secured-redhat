@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <licenseSummary>
     <project>nodejs-rest-http-secured-redhat</project>
-    <version>2.0.3</version>
+    <version>2.0.4</version>
     <license>Apache-2.0</license>
     <dependencies>
         <dependency>
@@ -27,16 +27,6 @@
         <dependency>
             <packageName>keycloak-connect</packageName>
             <version>6.0.1</version>
-            <licenses>
-                <license>
-                    <name>Apache License 2.0</name>
-                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
-                </license>
-            </licenses>
-        </dependency>
-        <dependency>
-            <packageName>kube-probe</packageName>
-            <version>0.3.2</version>
             <licenses>
                 <license>
                     <name>Apache License 2.0</name>
